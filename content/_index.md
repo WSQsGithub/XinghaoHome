@@ -146,7 +146,7 @@ sections:
         
         联系电话/微信: 13907003912
 
-        
+        邮箱地址：xu_changlan@163.com
       button:
         text: 联系我们
         url: mailto://xu_changlan@163.com
