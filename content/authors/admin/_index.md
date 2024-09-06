@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 吳健雄
+title: 南昌星豪密封件有限公司
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Shiung Wu
