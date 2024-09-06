@@ -19,7 +19,7 @@ sections:
         icon: rocket-launch
       secondary_action:
         text: 使用说明
-        url: '../uploads/密封剂.pdf'
+        url: 'uploads/密封剂.pdf'
       # announcement:
       #   text: "Announcing the release of version 1."
       #   link:
@@ -97,8 +97,8 @@ sections:
           # Upload image to `assets/media/` and reference the filename here
           image: product_img01.jpg
           button:
-            text: 联系我们
-            url: https://hugoblox.com/templates/
+            text: 产品说明书
+            url: uploads/密封剂.pdf
         - title: 合作单位
           text: 多家科研机构深度合作
           feature_icon: bolt
@@ -133,7 +133,6 @@ sections:
     content:
       title: 联系方式
       text: | 
-        单位名称: 南昌星豪密封件有限公司
 
         识别号: 91360125MA3ADMQ592 
         
@@ -147,6 +146,7 @@ sections:
         
         联系电话/微信: 13907003912
 
+        
       button:
         text: 联系我们
         url: mailto://xu_changlan@163.com
