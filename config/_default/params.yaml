@@ -11,10 +11,10 @@ appearance:
 # SEO
 marketing:
   seo:
-    site_type: Person
+    site_type: Company
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo landing page theme powered by Hugo Blox website builder.'
+    description: '南昌星豪密封件有限公司于2021年06月10日在江西省红谷滩区市场监督管理局注册成立，公司企业法人代表为徐新浩，注册资本为50万元整，办公场所在南昌市红谷滩区丰和北大道99号丰和新城北苑35栋2单元201室。公司业务经营范围主要从事KH-1714有机硅高真空微孔密封剂的销售等业务，公司自正式成立后，在全体员工的不懈努力下，公司业务取得到了一定的发展和进步。公司将始终以“严谨、责任、创新、服务”为生存理念，严格执行QB 01-1986企业标准，坚持“以人为本、科学生产、敬业奉献、和谐发展”的企业宗旨，视产品质量为生命，不断完善工艺技能，提高产品质量。同时公司将积极奉行走出战略，积极参与市场化竞争，在企业经营得到发展的同时，也将为企业在行业内羸得了良好的声誉。'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
@@ -34,20 +34,20 @@ header:
     align: "center"
     fixed_to_top: true
     logo:
-      text: ""
+      text: "南昌星豪密封件有限公司"
       # Logo filename in `assets/media/` folder
-      filename: "logo.svg"
-    button:
-      enable: true
-      text: "Get Started"
-      url: "https://hugoblox.com/templates/"
+      # filename: "logo.svg"
+    # button:
+    #   enable: true
+    #   text: "Get Started"
+    #   url: "https://hugoblox.com/templates/"
     show_search: true
     show_theme_chooser: true
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} My Company'
+    notice: '© {year} 南昌星豪密封件有限公司'
 
 # Localization
 locale:

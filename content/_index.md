@@ -9,16 +9,17 @@ design:
 
 sections:
   - block: hero
+    id: top
     content:
       title: 南昌星豪密封件有限公司
-      text: 🧱 EASY. FREE (OPEN SOURCE). NO-CODE  🧱
+      text: 统一社会信用代码： 91360125MA3ADMQ592
       primary_action:
-        text: 联系方式
-        url: #contact
+        text: "联系方式"
+        url: '/#contact'
         icon: rocket-launch
       secondary_action:
         text: 使用说明
-        url: ../assets/media/密封剂.pdf
+        url: '/assets/media/密封剂.pdf'
       # announcement:
       #   text: "Announcing the release of version 1."
       #   link:
@@ -83,7 +84,7 @@ sections:
   #         icon: rectangle-group
   #         description: Build your pages with blocks - no coding required!
   - block: cta-image-paragraph
-    id: solutions
+    id: info
     content:
       items:
         - title: 公司简介
@@ -106,10 +107,10 @@ sections:
             - 北京大学
             - 中国科学技术大学
           # Upload image to `assets/media/` and reference the filename here
-          image: product_img06.jpg
+          image: product_img02.jpg
           button:
             text: 联系我们
-            url: #contact
+            url: '/#contact'
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
@@ -133,11 +134,17 @@ sections:
       title: 联系方式
       text: | 
         单位名称: 南昌星豪密封件有限公司
+
         识别号: 91360125MA3ADMQ592 
+        
         开户行: 中国工商银行股份有限公司南昌苏圃支行
+        
         帐号: 1502 21200930 0342 633
+        
         地址: 江西省南昌市红谷滩区丰和北大道99号丰和新城北苑35栋2单元201室      
+        
         联系人: 许长兰     
+        
         联系电话/微信: 13907003912
 
       button:
