@@ -1,6 +1,6 @@
 ---
 title: 'Home'
-date: 2023-10-24
+date: 2024-09-01
 type: landing
 
 design:
@@ -15,11 +15,11 @@ sections:
       text: 统一社会信用代码： 91360125MA3ADMQ592
       primary_action:
         text: "联系方式"
-        url: '/#contact'
+        url: '#contact'
         icon: rocket-launch
       secondary_action:
         text: 使用说明
-        url: '/assets/media/密封剂.pdf'
+        url: '../uploads/密封剂.pdf'
       # announcement:
       #   text: "Announcing the release of version 1."
       #   link:
@@ -110,7 +110,7 @@ sections:
           image: product_img02.jpg
           button:
             text: 联系我们
-            url: '/#contact'
+            url: '#contact'
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"

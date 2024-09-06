@@ -3,10 +3,10 @@
 #   The `weight` parameter defines the order that the links will appear in.
 
 main:
-  - name: 首页
+  - name: 公司主页
     url: /#top
     weight: 10
-  - name: 详情
+  - name: 产品详情
     url: /#info
     weight: 20
   - name: 联系方式
